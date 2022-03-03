@@ -1,0 +1,3 @@
+[submodule "PyLX"]
+	path = PyLX
+	url = https://github.com/ethanlipson/PyLX-16A.git
